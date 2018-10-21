@@ -1,3 +1,5 @@
 .vscode
 .amlignore
 .ipynb_checkpoints
+aml_config
+myenv.yml
